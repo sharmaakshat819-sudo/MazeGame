@@ -1,0 +1,6 @@
+{
+  "name": "Echo Maze",
+  "description": "A high-stakes cyberpunk grid puzzle game where you memorize the flashing neon path, navigate the dark grid, and race against the clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
